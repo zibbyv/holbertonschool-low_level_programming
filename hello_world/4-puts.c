@@ -1,9 +1,15 @@
 #include <stdio.h>
+
 /**
- * 4-puts - a C program that prints
+ * main - Entry point
+ * 
+ * Description: 'prints a phrase'
+ * 
+ * Return: Always 0 (Success)
  */
+ 
 int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
-return (0);
+return (0); 
 }
