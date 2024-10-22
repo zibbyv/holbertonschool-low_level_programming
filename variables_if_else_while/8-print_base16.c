@@ -3,21 +3,28 @@
 /**
 * main - Entry point
 *
-* Description: 'prints HEX numbers'
+* Description: 'prints the alphabet in lowercase and uppercase'
 *
 * Return: Always 0 (Success)
 */
 
 int main(void)
 {
-char num = 00;
+char i = '0';
+char a = 'a';
 
-while (num < 15)
+while (i <= '9')
 {
-printf("%x", num);
-num++;
+putchar(i);
+i++;
 }
-putchar('\n');
 
+while (a <= 'f')
+{
+putchar(a);
+a++;
+}
+
+putchar('\n');
 return (0);
 }
