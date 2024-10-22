@@ -3,3 +3,5 @@
 * 1-last_digit: random number is generated and the last digit is printed
 * 2-print_alphabet: program that prints the alphabet in lowercase
 * 3-print_alphabets: program that prints the alphabet in lowercase and then in uppercase
+* 4-print_alphabt: program that prints the alphabet in lowercase except q and e
+* 5-print_numbers: program that prints all single digit numbers of base 10 starting from 0
