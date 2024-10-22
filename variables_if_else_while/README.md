@@ -8,3 +8,4 @@
 * 6-print_numberz: program that prints all single digit numbers of base 10 starting from 0 but differently
 * 7-print_tebahpla: program that prints the lowercase alphabet in reverse
 * 8-print_base16: program that prints all the numbers of base 16 in lowercase
+* 9-print_comb: program that prints all possible combinations of single-digit numbers
