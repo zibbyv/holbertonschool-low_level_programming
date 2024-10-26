@@ -6,3 +6,4 @@ C - Functions nested loops
 * 4-isalpha: checks for alphabetic character
 * 5-sign: checks if a number is positive zero or negative
 * 6-abs: computes the absolute value of an integer
+* 7-print_last_digit: prints the last digit of a number
