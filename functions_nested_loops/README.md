@@ -5,3 +5,4 @@ C - Functions nested loops
 * 3-islower: checks for lowercase character
 * 4-isalpha: checks for alphabetic character
 * 5-sign: checks if a number is positive zero or negative
+* 6-abs: computes the absolute value of an integer
