@@ -2,12 +2,17 @@
 #include "main.h"
 
 /**
-* @n - the value
 * add - adds two integers and returns the result
+* @a: the first integer
+* @b: the second integer
+*
+* Return: the value of add n
 */
 
 int add(int a, int b)
+
 {
-	int n = a + b;
-	return (n);
+	int n = a + b; /* calculate the sum of a and b */
+
+	return (n); /* return the value of add */
 }
