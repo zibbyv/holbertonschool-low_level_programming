@@ -8,3 +8,5 @@ C - Functions nested loops
 * 6-abs: computes the absolute value of an integer
 * 7-print_last_digit: prints the last digit of a number
 * 9-times_table: prints the 9 times table
+* 10-add: adds two integers and returns the result
+* 11-print_to_98: prints all natural numbers from n to 98
