@@ -1,4 +1,3 @@
-Week 3 C
 C - Hello, World
 * 0-preprocessor: script that runs a C file through the preprocessor and save the result into another file
 * 1-compiler: script that compiles a C file but does not link
@@ -7,7 +6,7 @@ C - Hello, World
 * 4-puts.c: C program that prints exactly Programming is like building a multilingual puzzle
 * 5-printf: C program that prints exactly
 * 6-size: C program that prints the size of various types on the computer it is compiled and run on
-* C - Variables if else while
+C - Variables if else while
 * 0-positive_or_negative: This program will assign a random number to the variable n each time it is executed
 * 1-last_digit: random number is generated and the last digit is printed
 * 2-print_alphabet: program that prints the alphabet in lowercase
