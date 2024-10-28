@@ -18,7 +18,7 @@ while (y < size)
 	{
 
 	l = (size - 1);
-	
+
 	while (y < l)
 	{
 	_putchar(' ');
