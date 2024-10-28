@@ -3,3 +3,4 @@ C - More functions, more nested loops
 * 1-isdigit: checks if a character is a digit
 * 2-mul: multiplies two integers and returns the result
 * 3-print_numbers.c: print numbers 0 to 9
+* 4-print_most_numbers: print numbers 0 to 9 except 2 and 4
