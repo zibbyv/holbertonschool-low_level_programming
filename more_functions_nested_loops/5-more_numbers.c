@@ -15,11 +15,11 @@ int a = 0;
 while (a <= 14)
 {
 if (a > 9)
-putchar((a / 10) + '0');
-putchar((a % 10) + '0');
+_putchar((a / 10) + '0');
+_putchar((a % 10) + '0');
 a++;
 }
-putchar('\n');
+_putchar('\n');
 n++;
 }
 }
