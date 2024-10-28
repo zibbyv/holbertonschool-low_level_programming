@@ -9,10 +9,10 @@
 * Return: the value of add n
 */
 
-int mul(int a, int b);
+int mul(int a, int b)
 
 {
-	int n = a * b; /* calculate the sum of a multiplied by b */
+int n = a * b; /* calculate the sum of a multiplied by b */
 
-	return (n); /* return the value of mul */
+return (n); /* return the value of mul */
 }
