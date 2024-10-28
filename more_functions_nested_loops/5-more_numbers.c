@@ -11,7 +11,6 @@ int n = 0;
 while (n < 10)
 {
 int a = 0;
-        
 while (a <= 14)
 {
 if (a > 9)
