@@ -3,7 +3,7 @@
 
 /**
 * print_square - print a square
-* @n: size of square
+* @size: size of square
 */
 
 void print_square(int size)
@@ -24,8 +24,8 @@ while (y < size)
 	_putchar(35);
 	x++;
 	}
-	
-_putchar('\n');	
+
+_putchar('\n');
 y++;
 }
 }

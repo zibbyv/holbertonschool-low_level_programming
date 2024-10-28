@@ -7,3 +7,4 @@ C - More functions, more nested loops
 * 5-more_numbers: prints numbers from 0 to 14 ten times
 * 6-print_line: print a line
 * 7-print_diagonal: print a diagonal line
+* 8-print_square: print a square
