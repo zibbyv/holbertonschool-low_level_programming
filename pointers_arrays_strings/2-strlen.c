@@ -2,8 +2,9 @@
 #include "main.h"
 
 /**
-* _strlen - swap two pointer values
+* _strlen - print length of a string
 * @s: string length
+* Return: length of the string
 */
 
 int _strlen(char *s)
