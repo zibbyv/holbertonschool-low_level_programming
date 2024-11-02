@@ -2,7 +2,7 @@
 
 /**
 * puts2 - prints every other character
-* @srt: string
+* @str: string
 */
 
 void puts2(char *str)
@@ -18,5 +18,5 @@ _putchar(str[index]); /* print out the current string*/
 }
 index++; /* move to the next character */
 }
-    _putchar('\n');
+_putchar('\n');
 }
