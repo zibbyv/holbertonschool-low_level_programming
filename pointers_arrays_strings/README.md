@@ -6,3 +6,4 @@ C - Pointers, arrays and strings
 * 4-print_rev: prints a string, in reverse, followed by a new line
 * 5-rev_string: reverses a string
 * 6-puts2.c: prints every other character of a string
+* 7-puts_half: prints half a string
