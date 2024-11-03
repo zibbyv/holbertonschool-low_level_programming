@@ -7,3 +7,4 @@ C - Pointers, arrays and strings
 * 5-rev_string: reverses a string
 * 6-puts2.c: prints every other character of a string
 * 7-puts_half: prints half a string
+* 8-print_array: prints arrays
