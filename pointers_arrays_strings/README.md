@@ -8,3 +8,7 @@ C - Pointers, arrays and strings
 * 6-puts2.c: prints every other character of a string
 * 7-puts_half: prints half a string
 * 8-print_array: prints arrays
+* 9-strcpy: string copy
+* 100-atoi: converts a string to an integer
+C - More pointers arrays and strings
+* 0-strcat: appends the src string to the dest string
