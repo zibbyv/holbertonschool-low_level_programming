@@ -15,10 +15,11 @@ int word = 1;
 for (i = 0; str[i] != '\0'; i++)
 {
 /* Check for numbers and capital letters */
-if ((str[i] >= '0' && str[i] <= '9') || (str[i] >= 'A' && str[i] <= 'Z') || (str[i] == '-'))
+if ((str[i] >= '0' && str[i] <= '9') ||
+		(str[i] >= 'A' && str[i] <= 'Z') ||
+		(str[i] == '-'))
 {
-/* Flag as changed */
-word = 0;
+word = 0; /* Flag as changed */
 }
 else if (str[i] >= 'a' && str[i] <= 'z') /* Check if lowercase letter */
 {
