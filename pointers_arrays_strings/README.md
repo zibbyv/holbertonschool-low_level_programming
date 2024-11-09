@@ -19,3 +19,5 @@ C - More pointers arrays and strings
 * 5-string_toupper: capitilise string
 * 6-cap_string: capitilise first letter
 * 7-leet: turn letters into numbers
+C - Even more pointers arrays and strings
+* 0-memset.c: function that fills memory with a constant byte
