@@ -2,7 +2,7 @@
 #include <stddef.h>
 
 /**
- * _memset - function that fills memory with a constant byte 
+ * _memset - function that fills memory with a constant byte
  * @s: Pointer to the memory area to fill
  * @b: Constant byte to fill the memory with
  * @n: Number of bytes to fill
@@ -19,5 +19,5 @@ for (i = 0; i < n; i++)
 s[i] = b;  /* Set each byte to the value of b */
 }
 /* Return the original pointer */
-return s;
+return (s);
 }
