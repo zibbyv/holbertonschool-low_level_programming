@@ -12,3 +12,7 @@ C - Pointers, arrays and strings
 * 100-atoi: converts a string to an integer
 C - More pointers arrays and strings
 * 0-strcat: appends the src string to the dest string
+* 1-strncat.c: appends up to n characters from src string to the dest string
+* 2-strncat: copies up to n characters from the src string to the dest string
+* 3-strcmp: compare two strings
+* 4-rev_array: reverse array
