@@ -15,9 +15,9 @@ int word = 1;
 for (i = 0; str[i] != '\0'; i++)
 {
 /* Check for numbers and capital letters */
-if ((str[i] >= '0' && str[i] <= '9') || (str[i] >= 'A' && str[i] <= 'Z'))
+if ((str[i] >= '0' && str[i] <= '9') || (str[i] >= 'A' && str[i] <= 'Z') || (str[i] == '-'))
 {
-/* prep for a new word */
+/* Flag as changed */
 word = 0;
 }
 else if (str[i] >= 'a' && str[i] <= 'z') /* Check if lowercase letter */
@@ -25,12 +25,12 @@ else if (str[i] >= 'a' && str[i] <= 'z') /* Check if lowercase letter */
 if (word)
 {
 str[i] = str[i] - 32; /* Convert to uppercase */
-word = 0; /* Reset flag to avoid changing the rest of the word */
+word = 0; /* Flag as changed */
 }
 }
 else
 {
-word = 1; /* Non-lowercase letter marks start of a new word */
+word = 1; /* Marks start of a new word */
 }
 }
 return (str);
