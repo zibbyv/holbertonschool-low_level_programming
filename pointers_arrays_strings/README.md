@@ -16,3 +16,6 @@ C - More pointers arrays and strings
 * 2-strncat: copies up to n characters from the src string to the dest string
 * 3-strcmp: compare two strings
 * 4-rev_array: reverse array
+* 5-string_toupper: capitilise string
+* 6-cap_string: capitilise first letter
+* 7-leet: turn letters into numbers
