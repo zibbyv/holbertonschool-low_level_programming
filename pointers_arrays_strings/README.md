@@ -22,3 +22,4 @@ C - More pointers arrays and strings
 C - Even more pointers arrays and strings
 * 0-memset.c: function that fills memory with a constant byte
 * 1-memcpy: function that copies memory area
+* 2-strchr.c: function that locates a character in a string
