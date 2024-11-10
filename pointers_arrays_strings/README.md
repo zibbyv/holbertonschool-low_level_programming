@@ -24,3 +24,4 @@ C - Even more pointers arrays and strings
 * 1-memcpy: function that copies memory area
 * 2-strchr.c: function that locates a character in a string
 * 3-strspn: get length of a prefix substring
+* 4-strpbrk: search a string for any of a set of bytes
