@@ -1,7 +1,7 @@
 #include <stddef.h>
 
 /**
- * _strstr - locates a substring
+ * _strstr - g
  * @haystack: string to search in
  * @needle: substring to look for
  *
@@ -14,10 +14,12 @@ int i = 0;
 int j = 0;
 int match = 0;
 
-if (*needle == '\0')
+if (needle[0] == '\0')
+{
 return (haystack);
+}
 
-while (*haystack != '\0')
+while (haystack[i] != '\0')
 {
 if (haystack[i] == needle[0])
 {
