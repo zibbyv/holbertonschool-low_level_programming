@@ -27,3 +27,4 @@ C - Even more pointers arrays and strings
 * 4-strpbrk: search a string for any of a set of bytes
 * 5-strstr: locate a substring
 * 7-print_chessboard.c: prints a chessboard
+* 8-print_diagsums: prints the sum of the two diagonals of a square matrix of integers
