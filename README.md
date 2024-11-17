@@ -69,3 +69,9 @@ C - Recursion
 * 4-pow_recursion: returns x to the power of y
 * 5-sqrt_recursion: returns the natural square root of a number
 * 6-is_prime_number: returns 1 if the input integer is a prime number otherwise return 0
+C - argc argv
+* 0-whatsmyname: prints the name of the program
+* 1-args: prints number of arguments passed into it
+* 2-args: program that prints all arguments it receives
+* 3-mul: multiplies two numbers
+* 4-add: adds positive numbers
